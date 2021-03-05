@@ -7,7 +7,7 @@
     "Published": "boolean",
     "CreatedAt": "date"
   }
-  "Author":{
+  "Author": {
     "FirstName": "string",
     "LastName": "string",
     "Age": "int",
