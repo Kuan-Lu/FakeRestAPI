@@ -2,6 +2,7 @@
   "Post": {
     "title": "string",
     "Author": "string",
+    "ISBN": "string",
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
