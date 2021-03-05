@@ -1,10 +1,15 @@
 {
   "Post": {
-    "title": "string",
+    "Title": "string",
     "Author": "string",
     "ISBN": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+    "Views": "int",
+    "Published": "boolean",
+    "CreatedAt": "date"
   }
+  "Author":{
+    "FirstName": "string",
+    "LastName": "string",
+    "Age": "int",
+    "BooksPublished": "int"
 }
