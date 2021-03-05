@@ -12,4 +12,5 @@
     "LastName": "string",
     "Age": "int",
     "BooksPublished": "int"
+  }
 }
