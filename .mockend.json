@@ -6,7 +6,7 @@
     "Views": "int",
     "Published": "boolean",
     "CreatedAt": "date"
-  }
+  },
   "Author": {
     "FirstName": "string",
     "LastName": "string",
